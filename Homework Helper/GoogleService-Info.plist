@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>873404597801-7saiagjq7jtfr5k4h80u8lbsa06t2n2o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.873404597801-7saiagjq7jtfr5k4h80u8lbsa06t2n2o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDiRSI2_WG59u7m5pUqz7qryiDng1KDmLk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>873404597801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>marc.boanas.Homework-Helper</string>
+	<key>PROJECT_ID</key>
+	<string>sophie-s-homework-helper</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sophie-s-homework-helper.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:873404597801:ios:8d14a835793001e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://sophie-s-homework-helper.firebaseio.com</string>
+</dict>
+</plist>
